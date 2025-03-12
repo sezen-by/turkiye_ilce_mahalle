@@ -27,3 +27,4 @@ Python 3.8+ yüklü olduğundan emin ol.
 ```bash
 pip install pandas playwright xlrd
 playwright install
+python -m install playwright
